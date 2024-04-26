@@ -49,7 +49,7 @@ The project has 2 main functionalities, to encode and decode Morse Code.
 Enconding
 The user writes a prompt by keyboard in the Serial Monitor, presses Enter, and then the LED and buzzer will flash, and buzz, the proper Morse Code for the word. On the LCD screen the user can see the word they inserted.
 Deconding
-The blue buttons are dot and dash, the user may press them at will, and after they have inserted the proper sequence, they may press the red button, which will check if the sequence matches a correct Morse code one, and then prints on the LCD screen the proper character. An additional functionality this buttons have is that by using 6 dots, you may erase a character, and by using 6 dashes, you may clear the LCD screen.
+The blue buttons are dot and dash, the user may press them at will, and after they have inserted the proper sequence, they may press the red button, which will check if the sequence matches a correct Morse code one, and then prints on the LCD screen the proper character. An additional functionality this buttons have is that by using 6 dots, you may erase a character, and by using 6 dashes, you may clear the LCD screen. <br />
 
 Demo
 Vide Demonstration - https://www.youtube.com/watch?v=EruZCIPv6bw
