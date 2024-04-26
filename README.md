@@ -17,9 +17,9 @@ Schematics
 
 Pre-requisites
 
-Arduino Uno R3 - https://docs.arduino.cc/hardware/uno-rev3/
-Arduino IDE - https://docs.arduino.cc/
-LiquidCrystal-I2C - https://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library
+Arduino Uno R3 - https://docs.arduino.cc/hardware/uno-rev3/ <br />
+Arduino IDE - https://docs.arduino.cc/ <br />
+LiquidCrystal-I2C - https://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library <br />
 
 
 Setup and Build
