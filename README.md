@@ -6,14 +6,14 @@ This Arduino Uno project facilitates the encoding and decoding of Morse code, pr
 
 Schematics
 
-1 x Arduino Uno
-1 x Breadboard
-3 x Buttons
-1 x Buzzer
-1 x LED
-3 x 10k Rezistors
-1 x 220 Rezistor
-15 x Dupont Wire
+1 x Arduino Uno <br />
+1 x Breadboard <br />
+3 x Buttons <br />
+1 x Buzzer <br />
+1 x LED <br />
+3 x 10k Rezistors <br />
+1 x 220 Rezistor <br />
+15 x Dupont Wire <br />
 
 Pre-requisites
 
